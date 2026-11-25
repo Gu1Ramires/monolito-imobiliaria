@@ -1,0 +1,36 @@
+:root {
+  --bg: #0d0c0a;
+  --surface: #161512;
+  --line: #2a2722;
+  --line-2: #3a362f;
+  --text: #ece6da;
+  --text-2: #cfc7b8;
+  --muted: #a39a8a;
+  --gold: #c2a06b;
+  --gold-soft: rgba(194, 160, 107, 0.14);
+  --serif: 'Cormorant Garamond', 'Times New Roman', serif;
+  --sans: 'Manrope', system-ui, -apple-system, sans-serif;
+  --ease: cubic-bezier(0.76, 0, 0.24, 1);
+  --ease-out: cubic-bezier(0.22, 1, 0.36, 1);
+  --container: 1320px;
+
+  /* Bootstrap overrides */
+  --bs-body-bg: var(--bg);
+  --bs-body-color: var(--text);
+  --bs-body-font-family: var(--sans);
+  --bs-border-color: var(--line-2);
+  --bs-border-radius: 0;
+  --bs-border-radius-sm: 0;
+  --bs-border-radius-lg: 0;
+  --bs-link-color: var(--text);
+  --bs-link-hover-color: var(--gold);
+  --bs-link-color-rgb: 236, 230, 218;
+  --bs-link-hover-color-rgb: 194, 160, 107;
+  --bs-emphasis-color: var(--text);
+  --bs-secondary-color: var(--muted);
+  --bs-focus-ring-color: rgba(194, 160, 107, 0.45);
+  --bs-form-invalid-color: #e0876a;
+  --bs-form-invalid-border-color: #e0876a;
+  --bs-form-valid-border-color: var(--gold);
+  color-scheme: dark;
+}
