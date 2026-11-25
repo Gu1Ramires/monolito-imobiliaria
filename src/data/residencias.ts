@@ -65,7 +65,7 @@ export const residencias: Residencia[] = [
     imagem: img('casa-horizonte', 'fachada'),
     planta: img('casa-horizonte', 'planta'),
     ordem: 1,
-    galeria: galeria('casa-horizonte', ['Fachada ao entardecer', 'Living com vista para o canal', 'Um dia na Casa Horizonte', 'Piscina de borda infinita', 'O canal de São Sebastião'], '1:42'),
+    galeria: galeria('casa-horizonte', ['Fachada ao entardecer', 'Jantar diante da serra', 'Um dia na Casa Horizonte', 'Piscina de borda infinita', 'Terraço ao anoitecer'], '1:42'),
     descricao: [
       'A Casa Horizonte ocupa a encosta mais alta da Ponta das Canas. O pavimento social é um único vão de vidro de 60 metros que desaparece quando as esquadrias deslizam, ligando living, jantar e cozinha à piscina de borda infinita.',
       'Acima, um volume de concreto e travertino abriga as suítes em balanço sobre o jardim. Toda a casa é controlada por voz e por um único aplicativo.',
