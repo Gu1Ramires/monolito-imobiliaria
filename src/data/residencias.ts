@@ -140,7 +140,7 @@ export const residencias: Residencia[] = [
     imagem: img('casa-duna', 'fachada'),
     planta: img('casa-duna', 'planta'),
     ordem: 3,
-    galeria: galeria('casa-duna', ['A casa entre as dunas', 'Varanda de estar', 'Pôr do sol na Duna', 'Piscina de água salgada', 'Dunas e lagoa'], '1:58'),
+    galeria: galeria('casa-duna', ['A casa entre as dunas', 'Jantar ao pôr do sol', 'Pôr do sol na Duna', 'Piscina de água salgada', 'Dunas e lagoa'], '1:58'),
     descricao: [
       'Paredes de pedra calcária e madeira de reflorestamento protegem a Casa Duna do vento e do sol do sertão litorâneo. O pátio interno sombreado concentra a vida da casa.',
       'O spa ocupa um volume próprio, com hammam, sala de massagem e uma piscina de água salgada voltada para o pôr do sol mais famoso do Ceará.',
