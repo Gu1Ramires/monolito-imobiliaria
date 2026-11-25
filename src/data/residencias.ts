@@ -106,7 +106,7 @@ export const residencias: Residencia[] = [
     imagem: img('mirante-atlantico', 'fachada'),
     planta: img('mirante-atlantico', 'planta'),
     ordem: 2,
-    galeria: galeria('mirante-atlantico', ['O costão iluminado', 'Sala de estar suspensa', 'Noite no Mirante', 'Piscina sobre o mar', 'Mar aberto e lua cheia'], '2:05'),
+    galeria: galeria('mirante-atlantico', ['O costão iluminado', 'Jantar diante do mar', 'Noite no Mirante', 'Piscina sobre o mar', 'Mar aberto e lua cheia'], '2:05'),
     descricao: [
       'Ancorado na rocha do costão, o Mirante Atlântico avança 14 metros sobre o mar. A sala de estar flutua acima das ondas, com piso de vidro na ponta do balanço.',
       'Um píer privativo recebe lanchas de até 60 pés, e o elevador panorâmico liga a garagem náutica à cobertura.',
